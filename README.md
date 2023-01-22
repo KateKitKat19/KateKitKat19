@@ -1,17 +1,17 @@
 <h1 align="center">Hi folks, I'm Kate 😺</h1>
 <h3 align="center">A passionate frontend developer from brave Ukraine </h3>
 
-- 🔭 I’m currently working on **adding backend to my existing projects**
+🔭 I’m currently working on **adding backend to my existing projects**
 
-- 🌱 I’m currently learning **Node.js and React Native**
+🌱 I’m currently learning **Node.js and React Native**
 
-- 👯 I’m looking to collaborate on **React apps**
+👯 I’m looking to collaborate on **React apps**
 
-- 📫 How to reach me **https://www.linkedin.com/in/katedziubchuk19/**
+📫 How to reach me **https://www.linkedin.com/in/katedziubchuk19/**
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1ci2wLmgRXq9jcYe34zatc4YqlHf8Ze8O/view?usp=sharing)
+📄 Know about my experiences [click here](https://drive.google.com/file/d/1ci2wLmgRXq9jcYe34zatc4YqlHf8Ze8O/view?usp=sharing)
 
-- ⚡ Fun fact **I love coding because it feels like magic to me (create smth cool from scratch and then IT'S WORKING daaaaamn I`m good)**
+⚡ Fun fact **I love coding because it feels like magic to me (create smth cool from scratch and then IT'S WORKING daaaaamn I`m good)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
