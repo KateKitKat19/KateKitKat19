@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/katedziubchuk19/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ci2wLmgRXq9jcYe34zatc4YqlHf8Ze8O/view?usp=sharing](https://drive.google.com/file/d/1ci2wLmgRXq9jcYe34zatc4YqlHf8Ze8O/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1ci2wLmgRXq9jcYe34zatc4YqlHf8Ze8O/view?usp=sharing)
 
 - ⚡ Fun fact **I love coding because it feels like magic to me (create smth cool from scratch and then IT'S WORKING daaaaamn I`m good)**
 
