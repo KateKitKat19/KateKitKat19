@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks, I'm Kate 😺</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate frontend developer from Ukraine, now living in Poland</h3>
 
 🔭 I’m currently working on **adding backend to my existing projects**
 
