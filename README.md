@@ -1,7 +1,7 @@
 <h1 align="center">Hi folks, I'm Kate 😺</h1>
 <h3 align="center">A passionate frontend developer from Ukraine </h3>
 
-🔭 I’m currently working on **adding backend to my existing projects**
+🔭 I’m currently working on **getting hands-on experience with Typescript**
 
 🌱 I’m currently learning **Node.js and React Native**
 
