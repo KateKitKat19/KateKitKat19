@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/katarina_mirax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katarina_mirax" height="30" width="40" /></a>
+<a href="https://t.me/KateDziubchuk19" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="katarina_mirax" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
